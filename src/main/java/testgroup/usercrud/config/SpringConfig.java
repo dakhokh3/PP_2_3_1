@@ -1,4 +1,4 @@
-package testgroup.filmography.config;
+package testgroup.usercrud.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
@@ -14,7 +14,7 @@ import org.thymeleaf.spring5.view.ThymeleafViewResolver;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "testgroup.filmography")
+@ComponentScan(basePackages = "testgroup.usercrud")
 public class SpringConfig implements WebMvcConfigurer {
 
     private final ApplicationContext applicationContext;

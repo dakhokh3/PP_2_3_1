@@ -1,4 +1,4 @@
-package testgroup.filmography.config;
+package testgroup.usercrud.config;
 
 import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.filter.HiddenHttpMethodFilter;

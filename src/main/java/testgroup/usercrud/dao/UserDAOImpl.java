@@ -1,7 +1,7 @@
-package testgroup.filmography.dao;
+package testgroup.usercrud.dao;
 
 import org.springframework.stereotype.Repository;
-import testgroup.filmography.model.User;
+import testgroup.usercrud.model.User;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;

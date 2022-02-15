@@ -1,11 +1,11 @@
-package testgroup.filmography.controller;
+package testgroup.usercrud.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import testgroup.filmography.model.User;
-import testgroup.filmography.service.UserService;
+import testgroup.usercrud.model.User;
+import testgroup.usercrud.service.UserService;
 
 @Controller
 @RequestMapping("/people")

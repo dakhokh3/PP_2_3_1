@@ -1,6 +1,6 @@
-package testgroup.filmography.service;
+package testgroup.usercrud.service;
 
-import testgroup.filmography.model.User;
+import testgroup.usercrud.model.User;
 import java.util.List;
 
 public interface UserService {

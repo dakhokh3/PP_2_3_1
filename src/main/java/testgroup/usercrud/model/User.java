@@ -1,4 +1,4 @@
-package testgroup.filmography.model;
+package testgroup.usercrud.model;
 
 import javax.persistence.*;
 

@@ -1,6 +1,6 @@
-package testgroup.filmography.dao;
+package testgroup.usercrud.dao;
 
-import testgroup.filmography.model.User;
+import testgroup.usercrud.model.User;
 import java.util.List;
 
 public interface UserDAO {

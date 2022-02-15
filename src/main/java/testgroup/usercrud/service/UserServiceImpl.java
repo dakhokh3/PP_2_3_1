@@ -1,9 +1,9 @@
-package testgroup.filmography.service;
+package testgroup.usercrud.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import testgroup.filmography.dao.UserDAO;
-import testgroup.filmography.model.User;
+import testgroup.usercrud.dao.UserDAO;
+import testgroup.usercrud.model.User;
 
 import javax.transaction.Transactional;
 import java.util.List;
